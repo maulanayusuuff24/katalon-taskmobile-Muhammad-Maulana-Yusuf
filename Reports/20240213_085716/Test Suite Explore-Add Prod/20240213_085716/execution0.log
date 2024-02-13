@@ -1,0 +1,2806 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-02-13T01:57:19.575762300Z</date>
+  <millis>1707789439575</millis>
+  <nanos>762300</nanos>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/Test Suite Explore-Add Prod</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="rerunTestFailImmediately">true</property>
+  <property name="retryCount">3</property>
+  <property name="name">Test Suite Explore-Add Prod</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/Test Suite Explore-Add Prod</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:19.589290700Z</date>
+  <millis>1707789439589</millis>
+  <nanos>290700</nanos>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = Maulana Y - DESKTOP-736VERV</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostName">Maulana Y - DESKTOP-736VERV</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:19.589290700Z</date>
+  <millis>1707789439589</millis>
+  <nanos>290700</nanos>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 11 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="os">Windows 11 64bit</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:19.590287300Z</date>
+  <millis>1707789439590</millis>
+  <nanos>287300</nanos>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 172.16.213.181</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostAddress">172.16.213.181</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:19.590794Z</date>
+  <millis>1707789439590</millis>
+  <nanos>794000</nanos>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 9.3.0.212</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="katalonVersion">9.3.0.212</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:19.726032300Z</date>
+  <millis>1707789439726</millis>
+  <nanos>32300</nanos>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Explore Categoryy</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">3</property>
+  <property name="name">Test Cases/Explore Categoryy</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/Explore Categoryy</property>
+  <property name="source">C:\Users\Maulana Y\git\katalon-taskmobile-Muhammad-Maulana-Yusuf\Test Cases\Explore Categoryy.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:19.966535200Z</date>
+  <millis>1707789439966</millis>
+  <nanos>535200</nanos>
+  <sequence>7</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : startApplication(&amp;quot;C:\Users\Maulana Y\Downloads\Android-Solodroid_E-CommerceApp Demo_3.2.0.apk\Solodroid_E-CommerceApp Demo_3.2.0.apk&amp;quot;, true)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:20.332530800Z</date>
+  <millis>1707789440332</millis>
+  <nanos>530800</nanos>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:31.194013400Z</date>
+  <millis>1707789451194</millis>
+  <nanos>13400</nanos>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>PATH: C:\Program Files\nodejs;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:31.216349100Z</date>
+  <millis>1707789451216</millis>
+  <nanos>349100</nanos>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>APPIUM_HOME: C:\Users\Maulana Y\.appium</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:31.217348Z</date>
+  <millis>1707789451217</millis>
+  <nanos>348000</nanos>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appium outlog: C:\Users\Maulana Y\git\katalon-taskmobile-Muhammad-Maulana-Yusuf\Reports\20240213_085716\Test Suite Explore-Add Prod\20240213_085716\appium.log</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:31.217348Z</date>
+  <millis>1707789451217</millis>
+  <nanos>348000</nanos>
+  <sequence>13</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appium errlog: C:\Users\Maulana Y\git\katalon-taskmobile-Muhammad-Maulana-Yusuf\Reports\20240213_085716\Test Suite Explore-Add Prod\20240213_085716\appium_error.log</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:33.704198400Z</date>
+  <millis>1707789453704</millis>
+  <nanos>198400</nanos>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Appium server started on port 59,628</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:42.571071Z</date>
+  <millis>1707789462571</millis>
+  <nanos>71000</nanos>
+  <sequence>16</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appiumVersion = 2.5.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">2.5.0</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:42.572578800Z</date>
+  <millis>1707789462572</millis>
+  <nanos>578800</nanos>
+  <sequence>17</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;ready&amp;quot;:true,&amp;quot;message&amp;quot;:&amp;quot;The server is ready to accept new connections&amp;quot;,&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;2.5.0&amp;quot;}}}</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;ready&quot;:true,&quot;message&quot;:&quot;The server is ready to accept new connections&quot;,&quot;build&quot;:{&quot;version&quot;:&quot;2.5.0&quot;}}}</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:42.582104300Z</date>
+  <millis>1707789462582</millis>
+  <nanos>104300</nanos>
+  <sequence>18</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceId = emulator-5554</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">emulator-5554</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:42.582104300Z</date>
+  <millis>1707789462582</millis>
+  <nanos>104300</nanos>
+  <sequence>19</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceName = emulator-5554 (sdk_gphone_x86 - Android 11)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">emulator-5554 (sdk_gphone_x86 - Android 11)</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:42.583113Z</date>
+  <millis>1707789462583</millis>
+  <nanos>113000</nanos>
+  <sequence>20</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceModel = sdk_gphone_x86</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">sdk_gphone_x86</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:42.584114300Z</date>
+  <millis>1707789462584</millis>
+  <nanos>114300</nanos>
+  <sequence>21</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceManufacturer = Google</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">Google</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:42.584114300Z</date>
+  <millis>1707789462584</millis>
+  <nanos>114300</nanos>
+  <sequence>22</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:42.585114400Z</date>
+  <millis>1707789462585</millis>
+  <nanos>114400</nanos>
+  <sequence>23</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceOSVersion = 11</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">11</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:42.688579800Z</date>
+  <millis>1707789462688</millis>
+  <nanos>579800</nanos>
+  <sequence>24</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Started app at: &amp;apos;C:\Users\Maulana Y\Downloads\Android-Solodroid_E-CommerceApp Demo_3.2.0.apk\Solodroid_E-CommerceApp Demo_3.2.0.apk&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.StartApplicationKeyword.startApplication</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:57:42.690593800Z</date>
+  <millis>1707789462690</millis>
+  <nanos>593800</nanos>
+  <sequence>25</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : startApplication(&amp;quot;C:\Users\Maulana Y\Downloads\Android-Solodroid_E-CommerceApp Demo_3.2.0.apk\Solodroid_E-CommerceApp Demo_3.2.0.apk&amp;quot;, true)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:42.691603200Z</date>
+  <millis>1707789462691</millis>
+  <nanos>603200</nanos>
+  <sequence>26</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/TextView - Category&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">23</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:42.754842400Z</date>
+  <millis>1707789462754</millis>
+  <nanos>842400</nanos>
+  <sequence>30</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:45.463543900Z</date>
+  <millis>1707789465463</millis>
+  <nanos>543900</nanos>
+  <sequence>31</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/TextView - Category&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:57:45.465544200Z</date>
+  <millis>1707789465465</millis>
+  <nanos>544200</nanos>
+  <sequence>32</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/TextView - Category&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:45.465544200Z</date>
+  <millis>1707789465465</millis>
+  <nanos>544200</nanos>
+  <sequence>33</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Electronics  Gadgets&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">25</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:45.491101600Z</date>
+  <millis>1707789465491</millis>
+  <nanos>101600</nanos>
+  <sequence>37</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:48.890671900Z</date>
+  <millis>1707789468890</millis>
+  <nanos>671900</nanos>
+  <sequence>38</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/android.widget.TextView - Electronics  Gadgets&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:57:48.891677900Z</date>
+  <millis>1707789468891</millis>
+  <nanos>677900</nanos>
+  <sequence>39</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Electronics  Gadgets&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:48.892678300Z</date>
+  <millis>1707789468892</millis>
+  <nanos>678300</nanos>
+  <sequence>40</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementText(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Electronics  Gadgets (1)&amp;quot;), &amp;quot;Electronics &amp;amp; Gadgets&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">27</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:49.041009100Z</date>
+  <millis>1707789469041</millis>
+  <nanos>9100</nanos>
+  <sequence>44</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Actual text and expected text of test object &amp;apos;Object Repository/Mobile App/android.widget.TextView - Electronics  Gadgets (1)&amp;apos; are matched.</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-is-assertion">true</property>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.VerifyElementTextKeyword.verifyElementText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:57:49.042941900Z</date>
+  <millis>1707789469042</millis>
+  <nanos>941900</nanos>
+  <sequence>45</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementText(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Electronics  Gadgets (1)&amp;quot;), &amp;quot;Electronics &amp;amp; Gadgets&amp;quot;)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:49.042941900Z</date>
+  <millis>1707789469042</millis>
+  <nanos>941900</nanos>
+  <sequence>46</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">30</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:49.067911100Z</date>
+  <millis>1707789469067</millis>
+  <nanos>911100</nanos>
+  <sequence>50</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:49.197959500Z</date>
+  <millis>1707789469197</millis>
+  <nanos>959500</nanos>
+  <sequence>51</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:57:49.198958900Z</date>
+  <millis>1707789469198</millis>
+  <nanos>958900</nanos>
+  <sequence>52</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:49.200352100Z</date>
+  <millis>1707789469200</millis>
+  <nanos>352100</nanos>
+  <sequence>53</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Fashions&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">32</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:49.229707900Z</date>
+  <millis>1707789469229</millis>
+  <nanos>707900</nanos>
+  <sequence>57</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:51.845759Z</date>
+  <millis>1707789471845</millis>
+  <nanos>759000</nanos>
+  <sequence>58</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/android.widget.TextView - Fashions&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:57:51.847766500Z</date>
+  <millis>1707789471847</millis>
+  <nanos>766500</nanos>
+  <sequence>59</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Fashions&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:51.847766500Z</date>
+  <millis>1707789471847</millis>
+  <nanos>766500</nanos>
+  <sequence>60</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">34</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:51.866460200Z</date>
+  <millis>1707789471866</millis>
+  <nanos>460200</nanos>
+  <sequence>64</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:51.999882400Z</date>
+  <millis>1707789471999</millis>
+  <nanos>882400</nanos>
+  <sequence>65</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:57:52.000878600Z</date>
+  <millis>1707789472000</millis>
+  <nanos>878600</nanos>
+  <sequence>66</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:52.002193100Z</date>
+  <millis>1707789472002</millis>
+  <nanos>193100</nanos>
+  <sequence>67</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Baby Gear&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">36</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:52.028196300Z</date>
+  <millis>1707789472028</millis>
+  <nanos>196300</nanos>
+  <sequence>71</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:54.546161700Z</date>
+  <millis>1707789474546</millis>
+  <nanos>161700</nanos>
+  <sequence>72</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/android.widget.TextView - Baby Gear&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:57:54.548161600Z</date>
+  <millis>1707789474548</millis>
+  <nanos>161600</nanos>
+  <sequence>73</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Baby Gear&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:54.548161600Z</date>
+  <millis>1707789474548</millis>
+  <nanos>161600</nanos>
+  <sequence>74</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">38</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:54.568709500Z</date>
+  <millis>1707789474568</millis>
+  <nanos>709500</nanos>
+  <sequence>78</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:54.696451600Z</date>
+  <millis>1707789474696</millis>
+  <nanos>451600</nanos>
+  <sequence>79</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:57:54.698451100Z</date>
+  <millis>1707789474698</millis>
+  <nanos>451100</nanos>
+  <sequence>80</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:54.698451100Z</date>
+  <millis>1707789474698</millis>
+  <nanos>451100</nanos>
+  <sequence>81</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Home  Furniture&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">40</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:54.725506Z</date>
+  <millis>1707789474725</millis>
+  <nanos>506000</nanos>
+  <sequence>85</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:57.322464800Z</date>
+  <millis>1707789477322</millis>
+  <nanos>464800</nanos>
+  <sequence>86</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/android.widget.TextView - Home  Furniture&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:57:57.323992200Z</date>
+  <millis>1707789477323</millis>
+  <nanos>992200</nanos>
+  <sequence>87</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Home  Furniture&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:57.323992200Z</date>
+  <millis>1707789477323</millis>
+  <nanos>992200</nanos>
+  <sequence>88</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">42</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:57.343579200Z</date>
+  <millis>1707789477343</millis>
+  <nanos>579200</nanos>
+  <sequence>92</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:57.469632100Z</date>
+  <millis>1707789477469</millis>
+  <nanos>632100</nanos>
+  <sequence>93</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:57:57.471143500Z</date>
+  <millis>1707789477471</millis>
+  <nanos>143500</nanos>
+  <sequence>94</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:57.471143500Z</date>
+  <millis>1707789477471</millis>
+  <nanos>143500</nanos>
+  <sequence>95</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Health  Sports&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">44</property>
+  <property name="stepIndex">12</property>
+</record>
+<record>
+  <date>2024-02-13T01:57:57.511276500Z</date>
+  <millis>1707789477511</millis>
+  <nanos>276500</nanos>
+  <sequence>99</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:59.993552400Z</date>
+  <millis>1707789479993</millis>
+  <nanos>552400</nanos>
+  <sequence>100</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/android.widget.TextView - Health  Sports&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:57:59.995553100Z</date>
+  <millis>1707789479995</millis>
+  <nanos>553100</nanos>
+  <sequence>101</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Health  Sports&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:57:59.995553100Z</date>
+  <millis>1707789479995</millis>
+  <nanos>553100</nanos>
+  <sequence>102</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">46</property>
+  <property name="stepIndex">13</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:00.015242600Z</date>
+  <millis>1707789480015</millis>
+  <nanos>242600</nanos>
+  <sequence>106</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:00.133729500Z</date>
+  <millis>1707789480133</millis>
+  <nanos>729500</nanos>
+  <sequence>107</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:00.134729500Z</date>
+  <millis>1707789480134</millis>
+  <nanos>729500</nanos>
+  <sequence>108</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:00.134729500Z</date>
+  <millis>1707789480134</millis>
+  <nanos>729500</nanos>
+  <sequence>109</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Office  Industry&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">48</property>
+  <property name="stepIndex">14</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:00.160996600Z</date>
+  <millis>1707789480160</millis>
+  <nanos>996600</nanos>
+  <sequence>113</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:02.714977600Z</date>
+  <millis>1707789482714</millis>
+  <nanos>977600</nanos>
+  <sequence>114</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/android.widget.TextView - Office  Industry&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:02.715970100Z</date>
+  <millis>1707789482715</millis>
+  <nanos>970100</nanos>
+  <sequence>115</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.TextView - Office  Industry&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:02.715970100Z</date>
+  <millis>1707789482715</millis>
+  <nanos>970100</nanos>
+  <sequence>116</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">50</property>
+  <property name="stepIndex">15</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:02.734696700Z</date>
+  <millis>1707789482734</millis>
+  <nanos>696700</nanos>
+  <sequence>120</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:03.449505800Z</date>
+  <millis>1707789483449</millis>
+  <nanos>505800</nanos>
+  <sequence>121</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:03.449505800Z</date>
+  <millis>1707789483449</millis>
+  <nanos>505800</nanos>
+  <sequence>122</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Mobile App/android.widget.ImageButton-Back&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:03.450506300Z</date>
+  <millis>1707789483450</millis>
+  <nanos>506300</nanos>
+  <sequence>123</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Explore Categoryy</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:03.451015400Z</date>
+  <millis>1707789483451</millis>
+  <nanos>15400</nanos>
+  <sequence>124</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Explore Categoryy</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[]</property>
+  <property name="applitools">false</property>
+  <property name="remainingRetryCount">3</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: true,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:03.454025400Z</date>
+  <millis>1707789483454</millis>
+  <nanos>25400</nanos>
+  <sequence>125</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/Add Prods to Cart</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">3</property>
+  <property name="name">Test Cases/Add Prods to Cart</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/Add Prods to Cart</property>
+  <property name="source">C:\Users\Maulana Y\git\katalon-taskmobile-Muhammad-Maulana-Yusuf\Test Cases\Add Prods to Cart.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:03.520805Z</date>
+  <millis>1707789483520</millis>
+  <nanos>805000</nanos>
+  <sequence>127</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : startApplication(&amp;quot;C:\Users\Maulana Y\Downloads\Android-Solodroid_E-CommerceApp Demo_3.2.0.apk\Solodroid_E-CommerceApp Demo_3.2.0.apk&amp;quot;, true)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">20</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:10.420643900Z</date>
+  <millis>1707789490420</millis>
+  <nanos>643900</nanos>
+  <sequence>130</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appiumVersion = 2.5.0</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">2.5.0</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:10.421651800Z</date>
+  <millis>1707789490421</millis>
+  <nanos>651800</nanos>
+  <sequence>131</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;ready&amp;quot;:true,&amp;quot;message&amp;quot;:&amp;quot;The server is ready to accept new connections&amp;quot;,&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;2.5.0&amp;quot;}}}</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;ready&quot;:true,&quot;message&quot;:&quot;The server is ready to accept new connections&quot;,&quot;build&quot;:{&quot;version&quot;:&quot;2.5.0&quot;}}}</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:10.426769900Z</date>
+  <millis>1707789490426</millis>
+  <nanos>769900</nanos>
+  <sequence>132</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceId = emulator-5554</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">emulator-5554</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:10.426769900Z</date>
+  <millis>1707789490426</millis>
+  <nanos>769900</nanos>
+  <sequence>133</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceName = emulator-5554 (sdk_gphone_x86 - Android 11)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">emulator-5554 (sdk_gphone_x86 - Android 11)</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:10.426769900Z</date>
+  <millis>1707789490426</millis>
+  <nanos>769900</nanos>
+  <sequence>134</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceModel = sdk_gphone_x86</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">sdk_gphone_x86</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:10.426769900Z</date>
+  <millis>1707789490426</millis>
+  <nanos>769900</nanos>
+  <sequence>135</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceManufacturer = Google</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">Google</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:10.427773300Z</date>
+  <millis>1707789490427</millis>
+  <nanos>773300</nanos>
+  <sequence>136</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:10.427773300Z</date>
+  <millis>1707789490427</millis>
+  <nanos>773300</nanos>
+  <sequence>137</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>deviceOSVersion = 11</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">11</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:10.527639800Z</date>
+  <millis>1707789490527</millis>
+  <nanos>639800</nanos>
+  <sequence>138</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Started app at: &amp;apos;C:\Users\Maulana Y\Downloads\Android-Solodroid_E-CommerceApp Demo_3.2.0.apk\Solodroid_E-CommerceApp Demo_3.2.0.apk&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.StartApplicationKeyword.startApplication</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:10.529642500Z</date>
+  <millis>1707789490529</millis>
+  <nanos>642500</nanos>
+  <sequence>139</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : startApplication(&amp;quot;C:\Users\Maulana Y\Downloads\Android-Solodroid_E-CommerceApp Demo_3.2.0.apk\Solodroid_E-CommerceApp Demo_3.2.0.apk&amp;quot;, true)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:10.529642500Z</date>
+  <millis>1707789490529</millis>
+  <nanos>642500</nanos>
+  <sequence>140</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Samsung Galaxy S10 - Black&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">23</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:10.552243400Z</date>
+  <millis>1707789490552</millis>
+  <nanos>243400</nanos>
+  <sequence>144</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:17.438437900Z</date>
+  <millis>1707789497438</millis>
+  <nanos>437900</nanos>
+  <sequence>145</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Samsung Galaxy S10 - Black&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:17.440443800Z</date>
+  <millis>1707789497440</millis>
+  <nanos>443800</nanos>
+  <sequence>146</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Samsung Galaxy S10 - Black&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:17.440950200Z</date>
+  <millis>1707789497440</millis>
+  <nanos>950200</nanos>
+  <sequence>147</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/android.widget.Button - ADD TO CART&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">25</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:17.472395600Z</date>
+  <millis>1707789497472</millis>
+  <nanos>395600</nanos>
+  <sequence>151</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:18.094931900Z</date>
+  <millis>1707789498094</millis>
+  <nanos>931900</nanos>
+  <sequence>152</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/android.widget.Button - ADD TO CART&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:18.096429100Z</date>
+  <millis>1707789498096</millis>
+  <nanos>429100</nanos>
+  <sequence>153</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/android.widget.Button - ADD TO CART&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:18.097437900Z</date>
+  <millis>1707789498097</millis>
+  <nanos>437900</nanos>
+  <sequence>154</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Object Repository/EditText-Product qty&amp;quot;), &amp;quot;1&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">27</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:18.135618700Z</date>
+  <millis>1707789498135</millis>
+  <nanos>618700</nanos>
+  <sequence>158</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:20.530730100Z</date>
+  <millis>1707789500530</millis>
+  <nanos>730100</nanos>
+  <sequence>159</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;1&amp;apos; has been set to element &amp;apos;Object Repository/EditText-Product qty&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:20.531662900Z</date>
+  <millis>1707789500531</millis>
+  <nanos>662900</nanos>
+  <sequence>160</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Object Repository/EditText-Product qty&amp;quot;), &amp;quot;1&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:20.531662900Z</date>
+  <millis>1707789500531</millis>
+  <nanos>662900</nanos>
+  <sequence>161</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Button - ADD&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">29</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:20.551197400Z</date>
+  <millis>1707789500551</millis>
+  <nanos>197400</nanos>
+  <sequence>165</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:21.271883300Z</date>
+  <millis>1707789501271</millis>
+  <nanos>883300</nanos>
+  <sequence>166</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Button - ADD&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:21.272892400Z</date>
+  <millis>1707789501272</millis>
+  <nanos>892400</nanos>
+  <sequence>167</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Button - ADD&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:21.272892400Z</date>
+  <millis>1707789501272</millis>
+  <nanos>892400</nanos>
+  <sequence>168</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Button Cart-Kanan Atas&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">31</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:21.302553600Z</date>
+  <millis>1707789501302</millis>
+  <nanos>553600</nanos>
+  <sequence>172</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:22.036751800Z</date>
+  <millis>1707789502036</millis>
+  <nanos>751800</nanos>
+  <sequence>173</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Button Cart-Kanan Atas&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:22.037752100Z</date>
+  <millis>1707789502037</millis>
+  <nanos>752100</nanos>
+  <sequence>174</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Button Cart-Kanan Atas&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:22.037752100Z</date>
+  <millis>1707789502037</millis>
+  <nanos>752100</nanos>
+  <sequence>175</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : waitForElementPresent(findTestObject(&amp;quot;Object Repository/android.widget.TextView - Samsung Galaxy S10 - Black&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">33</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:22.069341700Z</date>
+  <millis>1707789502069</millis>
+  <nanos>341700</nanos>
+  <sequence>179</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:22.892712700Z</date>
+  <millis>1707789502892</millis>
+  <nanos>712700</nanos>
+  <sequence>180</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Element &amp;apos;Object Repository/android.widget.TextView - Samsung Galaxy S10 - Black&amp;apos; is present</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.WaitForElementPresentKeyword.waitForElementPresent</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:22.893717900Z</date>
+  <millis>1707789502893</millis>
+  <nanos>717900</nanos>
+  <sequence>181</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : waitForElementPresent(findTestObject(&amp;quot;Object Repository/android.widget.TextView - Samsung Galaxy S10 - Black&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:22.893717900Z</date>
+  <millis>1707789502893</millis>
+  <nanos>717900</nanos>
+  <sequence>182</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/android.widget.Button - CHECKOUT&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">35</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:22.912995400Z</date>
+  <millis>1707789502912</millis>
+  <nanos>995400</nanos>
+  <sequence>186</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:23.011363100Z</date>
+  <millis>1707789503011</millis>
+  <nanos>363100</nanos>
+  <sequence>187</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/android.widget.Button - CHECKOUT&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:23.012397800Z</date>
+  <millis>1707789503012</millis>
+  <nanos>397800</nanos>
+  <sequence>188</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/android.widget.Button - CHECKOUT&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:23.013359200Z</date>
+  <millis>1707789503013</millis>
+  <nanos>359200</nanos>
+  <sequence>189</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Object Repository/EditText - Your Name&amp;quot;), &amp;quot;Nama&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">37</property>
+  <property name="stepIndex">9</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:23.034911300Z</date>
+  <millis>1707789503034</millis>
+  <nanos>911300</nanos>
+  <sequence>193</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:26.547632100Z</date>
+  <millis>1707789506547</millis>
+  <nanos>632100</nanos>
+  <sequence>194</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Nama&amp;apos; has been set to element &amp;apos;Object Repository/EditText - Your Name&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:26.548633500Z</date>
+  <millis>1707789506548</millis>
+  <nanos>633500</nanos>
+  <sequence>195</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Object Repository/EditText - Your Name&amp;quot;), &amp;quot;Nama&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:26.548633500Z</date>
+  <millis>1707789506548</millis>
+  <nanos>633500</nanos>
+  <sequence>196</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Object Repository/EditText - Email&amp;quot;), &amp;quot;nama@gmail.com&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">39</property>
+  <property name="stepIndex">10</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:26.569201800Z</date>
+  <millis>1707789506569</millis>
+  <nanos>201800</nanos>
+  <sequence>200</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:29.300558400Z</date>
+  <millis>1707789509300</millis>
+  <nanos>558400</nanos>
+  <sequence>201</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;nama@gmail.com&amp;apos; has been set to element &amp;apos;Object Repository/EditText - Email&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:29.302569800Z</date>
+  <millis>1707789509302</millis>
+  <nanos>569800</nanos>
+  <sequence>202</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Object Repository/EditText - Email&amp;quot;), &amp;quot;nama@gmail.com&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:29.302569800Z</date>
+  <millis>1707789509302</millis>
+  <nanos>569800</nanos>
+  <sequence>203</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Object Repository/EditText - Phone Number&amp;quot;), &amp;quot;0811222333&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">41</property>
+  <property name="stepIndex">11</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:29.325944800Z</date>
+  <millis>1707789509325</millis>
+  <nanos>944800</nanos>
+  <sequence>207</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:31.814277900Z</date>
+  <millis>1707789511814</millis>
+  <nanos>277900</nanos>
+  <sequence>208</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;0811222333&amp;apos; has been set to element &amp;apos;Object Repository/EditText - Phone Number&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:31.815460500Z</date>
+  <millis>1707789511815</millis>
+  <nanos>460500</nanos>
+  <sequence>209</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Object Repository/EditText - Phone Number&amp;quot;), &amp;quot;0811222333&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:31.815460500Z</date>
+  <millis>1707789511815</millis>
+  <nanos>460500</nanos>
+  <sequence>210</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Object Repository/EditText - Your Address&amp;quot;), &amp;quot;Jalan kemang raya&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">43</property>
+  <property name="stepIndex">12</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:31.837488500Z</date>
+  <millis>1707789511837</millis>
+  <nanos>488500</nanos>
+  <sequence>214</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:34.348888400Z</date>
+  <millis>1707789514348</millis>
+  <nanos>888400</nanos>
+  <sequence>215</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Jalan kemang raya&amp;apos; has been set to element &amp;apos;Object Repository/EditText - Your Address&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:34.351471Z</date>
+  <millis>1707789514351</millis>
+  <nanos>471000</nanos>
+  <sequence>216</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Object Repository/EditText - Your Address&amp;quot;), &amp;quot;Jalan kemang raya&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:34.351471Z</date>
+  <millis>1707789514351</millis>
+  <nanos>471000</nanos>
+  <sequence>217</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/Shipping&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">45</property>
+  <property name="stepIndex">13</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:34.374949300Z</date>
+  <millis>1707789514374</millis>
+  <nanos>949300</nanos>
+  <sequence>221</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:36.625866800Z</date>
+  <millis>1707789516625</millis>
+  <nanos>866800</nanos>
+  <sequence>222</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/Shipping&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:36.627961900Z</date>
+  <millis>1707789516627</millis>
+  <nanos>961900</nanos>
+  <sequence>223</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/Shipping&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:36.627961900Z</date>
+  <millis>1707789516627</millis>
+  <nanos>961900</nanos>
+  <sequence>224</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/CheckedTextView - FedEx&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">47</property>
+  <property name="stepIndex">14</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:36.647731800Z</date>
+  <millis>1707789516647</millis>
+  <nanos>731800</nanos>
+  <sequence>228</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:37.361473100Z</date>
+  <millis>1707789517361</millis>
+  <nanos>473100</nanos>
+  <sequence>229</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/CheckedTextView - FedEx&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:37.362473700Z</date>
+  <millis>1707789517362</millis>
+  <nanos>473700</nanos>
+  <sequence>230</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/CheckedTextView - FedEx&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:37.362473700Z</date>
+  <millis>1707789517362</millis>
+  <nanos>473700</nanos>
+  <sequence>231</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : hideKeyboard()</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">49</property>
+  <property name="stepIndex">15</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:38.681698900Z</date>
+  <millis>1707789518681</millis>
+  <nanos>698900</nanos>
+  <sequence>233</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Keyboard is hidden</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain$runKeyword.call</property>
+  <property name="testops-execution-stacktrace">com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:343)
+com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:337)
+com.kms.katalon.core.logging.KeywordLogger$logPassed$0.call(Unknown Source)
+com.kms.katalon.core.mobile.keyword.builtin.HideKeyboardKeyword$_hideKeyboard_closure1.doCall(HideKeyboardKeyword.groovy:81)
+com.kms.katalon.core.mobile.keyword.builtin.HideKeyboardKeyword$_hideKeyboard_closure1.doCall(HideKeyboardKeyword.groovy)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain.runKeyword(MobileKeywordMain.groovy:19)
+com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain$runKeyword.call(Unknown Source)
+com.kms.katalon.core.mobile.keyword.builtin.HideKeyboardKeyword.hideKeyboard(HideKeyboardKeyword.groovy:66)
+com.kms.katalon.core.mobile.keyword.builtin.HideKeyboardKeyword.execute(HideKeyboardKeyword.groovy:62)
+com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords.hideKeyboard(MobileBuiltInKeywords.groovy:2403)
+Add Prods to Cart.run(Add Prods to Cart:49)
+</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:38.687202900Z</date>
+  <millis>1707789518687</millis>
+  <nanos>202900</nanos>
+  <sequence>234</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : hideKeyboard()</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:38.687202900Z</date>
+  <millis>1707789518687</millis>
+  <nanos>202900</nanos>
+  <sequence>235</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : setText(findTestObject(&amp;quot;Object Repository/EditText - Comment&amp;quot;), &amp;quot;Oke&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">51</property>
+  <property name="stepIndex">16</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:38.714772400Z</date>
+  <millis>1707789518714</millis>
+  <nanos>772400</nanos>
+  <sequence>239</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:40.827481300Z</date>
+  <millis>1707789520827</millis>
+  <nanos>481300</nanos>
+  <sequence>240</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Text &amp;apos;Oke&amp;apos; has been set to element &amp;apos;Object Repository/EditText - Comment&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.SetTextKeyword.setText</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:40.828490Z</date>
+  <millis>1707789520828</millis>
+  <nanos>490000</nanos>
+  <sequence>241</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : setText(findTestObject(&amp;quot;Object Repository/EditText - Comment&amp;quot;), &amp;quot;Oke&amp;quot;, 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:40.828490Z</date>
+  <millis>1707789520828</millis>
+  <nanos>490000</nanos>
+  <sequence>242</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : hideKeyboard()</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">53</property>
+  <property name="stepIndex">17</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:41.934620400Z</date>
+  <millis>1707789521934</millis>
+  <nanos>620400</nanos>
+  <sequence>244</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Keyboard is hidden</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain$runKeyword.call</property>
+  <property name="testops-execution-stacktrace">com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:343)
+com.kms.katalon.core.logging.KeywordLogger.logPassed(KeywordLogger.java:337)
+com.kms.katalon.core.logging.KeywordLogger$logPassed$0.call(Unknown Source)
+com.kms.katalon.core.mobile.keyword.builtin.HideKeyboardKeyword$_hideKeyboard_closure1.doCall(HideKeyboardKeyword.groovy:81)
+com.kms.katalon.core.mobile.keyword.builtin.HideKeyboardKeyword$_hideKeyboard_closure1.doCall(HideKeyboardKeyword.groovy)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain.runKeyword(MobileKeywordMain.groovy:19)
+com.kms.katalon.core.mobile.keyword.internal.MobileKeywordMain$runKeyword.call(Unknown Source)
+com.kms.katalon.core.mobile.keyword.builtin.HideKeyboardKeyword.hideKeyboard(HideKeyboardKeyword.groovy:66)
+com.kms.katalon.core.mobile.keyword.builtin.HideKeyboardKeyword.execute(HideKeyboardKeyword.groovy:62)
+com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords.hideKeyboard(MobileBuiltInKeywords.groovy:2403)
+Add Prods to Cart.run(Add Prods to Cart:53)
+</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:41.939174400Z</date>
+  <millis>1707789521939</millis>
+  <nanos>174400</nanos>
+  <sequence>245</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : hideKeyboard()</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:41.939174400Z</date>
+  <millis>1707789521939</millis>
+  <nanos>174400</nanos>
+  <sequence>246</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;Object Repository/ProcessCheckout-Button&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">55</property>
+  <property name="stepIndex">18</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:41.961899200Z</date>
+  <millis>1707789521961</millis>
+  <nanos>899200</nanos>
+  <sequence>250</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:42.211398100Z</date>
+  <millis>1707789522211</millis>
+  <nanos>398100</nanos>
+  <sequence>251</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/ProcessCheckout-Button&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:42.212400600Z</date>
+  <millis>1707789522212</millis>
+  <nanos>400600</nanos>
+  <sequence>252</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;Object Repository/ProcessCheckout-Button&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:42.212400600Z</date>
+  <millis>1707789522212</millis>
+  <nanos>400600</nanos>
+  <sequence>253</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;android.widget.Button - YES&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">57</property>
+  <property name="stepIndex">19</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:42.232494600Z</date>
+  <millis>1707789522232</millis>
+  <nanos>494600</nanos>
+  <sequence>257</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:43.282900800Z</date>
+  <millis>1707789523282</millis>
+  <nanos>900800</nanos>
+  <sequence>258</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/android.widget.Button - YES&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:43.283904200Z</date>
+  <millis>1707789523283</millis>
+  <nanos>904200</nanos>
+  <sequence>259</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;android.widget.Button - YES&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:43.283904200Z</date>
+  <millis>1707789523283</millis>
+  <nanos>904200</nanos>
+  <sequence>260</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyElementVisible(findTestObject(&amp;quot;android.widget.TextView - Thank you for ordering, your order will be review soon, invoice detail will be sent to your email when the order is ready&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">59</property>
+  <property name="stepIndex">20</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:43.316079300Z</date>
+  <millis>1707789523316</millis>
+  <nanos>79300</nanos>
+  <sequence>264</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:51.731111700Z</date>
+  <millis>1707789531731</millis>
+  <nanos>111700</nanos>
+  <sequence>265</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Element &amp;apos;Object Repository/android.widget.TextView - Thank you for ordering, your order will be review soon, invoice detail will be sent to your email when the order is ready&amp;apos; is visible</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-is-assertion">true</property>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.VerifyElementVisibleKeyword.verifyElementVisible</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:51.733152200Z</date>
+  <millis>1707789531733</millis>
+  <nanos>152200</nanos>
+  <sequence>266</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyElementVisible(findTestObject(&amp;quot;android.widget.TextView - Thank you for ordering, your order will be review soon, invoice detail will be sent to your email when the order is ready&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:51.734118500Z</date>
+  <millis>1707789531734</millis>
+  <nanos>118500</nanos>
+  <sequence>267</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : tap(findTestObject(&amp;quot;android.widget.Button - OK&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">62</property>
+  <property name="stepIndex">21</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:51.752115700Z</date>
+  <millis>1707789531752</millis>
+  <nanos>115700</nanos>
+  <sequence>271</sequence>
+  <level>WARNING</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Timeout &amp;apos;0&amp;apos; is invalid. Using default page load timeout: &amp;apos;30&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:51.861596700Z</date>
+  <millis>1707789531861</millis>
+  <nanos>596700</nanos>
+  <sequence>272</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Tapped on element &amp;apos;Object Repository/android.widget.Button - OK&amp;apos;</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.mobile.keyword.builtin.TapKeyword.tap</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2024-02-13T01:58:51.861596700Z</date>
+  <millis>1707789531861</millis>
+  <nanos>596700</nanos>
+  <sequence>273</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : tap(findTestObject(&amp;quot;android.widget.Button - OK&amp;quot;), 0)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:51.861596700Z</date>
+  <millis>1707789531861</millis>
+  <nanos>596700</nanos>
+  <sequence>274</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/Add Prods to Cart</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:51.862596800Z</date>
+  <millis>1707789531862</millis>
+  <nanos>596800</nanos>
+  <sequence>275</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/Add Prods to Cart</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[]</property>
+  <property name="applitools">false</property>
+  <property name="remainingRetryCount">3</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: false,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: true,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2024-02-13T01:58:51.862596800Z</date>
+  <millis>1707789531862</millis>
+  <nanos>596800</nanos>
+  <sequence>276</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:52.155765Z</date>
+  <millis>1707789532155</millis>
+  <nanos>765000</nanos>
+  <sequence>624</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating HTML report folder at: C:\Users\Maulana Y\git\katalon-taskmobile-Muhammad-Maulana-Yusuf\Reports\20240213_085716\Test Suite Explore-Add Prod\20240213_085716...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:52.807914700Z</date>
+  <millis>1707789532807</millis>
+  <nanos>914700</nanos>
+  <sequence>625</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HTML report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:52.808923600Z</date>
+  <millis>1707789532808</millis>
+  <nanos>923600</nanos>
+  <sequence>626</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating CSV report folder at: C:\Users\Maulana Y\git\katalon-taskmobile-Muhammad-Maulana-Yusuf\Reports\20240213_085716\Test Suite Explore-Add Prod\20240213_085716...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:52.852356200Z</date>
+  <millis>1707789532852</millis>
+  <nanos>356200</nanos>
+  <sequence>627</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>CSV report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:52.859576400Z</date>
+  <millis>1707789532859</millis>
+  <nanos>576400</nanos>
+  <sequence>629</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T01:58:53.861934200Z</date>
+  <millis>1707789533861</millis>
+  <nanos>934200</nanos>
+  <sequence>630</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/Test Suite Explore-Add Prod</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<record>
+  <date>2024-02-13T04:17:38.531354100Z</date>
+  <millis>1707797858531</millis>
+  <nanos>354100</nanos>
+  <sequence>232</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>246</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T04:18:25.122224300Z</date>
+  <millis>1707797905122</millis>
+  <nanos>224300</nanos>
+  <sequence>233</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>252</thread>
+  <message>Checking object</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T04:19:27.268146300Z</date>
+  <millis>1707797967268</millis>
+  <nanos>146300</nanos>
+  <sequence>234</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>Detected NodeJS location: &amp;quot;C:\Program Files\nodejs\node.exe&amp;quot;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T04:19:38.106751100Z</date>
+  <millis>1707797978106</millis>
+  <nanos>751100</nanos>
+  <sequence>235</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>PATH: C:/Users/Maulana Y/.katalon/packages/Katalon_Studio_Windows_64-9.3.0/Katalon_Studio_Windows_64-9.3.0/jre/bin/server;C:/Users/Maulana Y/.katalon/packages/Katalon_Studio_Windows_64-9.3.0/Katalon_Studio_Windows_64-9.3.0/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files\Go\bin;C:\Program Files\Git\cmd;C:\Program Files\PostgreSQL\15\bin;C:\Program Files\nodejs\;C:\Program Files\OpenSSL-Win64\bin;C:\Program Files (x86)\Java\jre-1.8\bin;C:\Program Files\Java\jdk-20\bin;;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Users\Maulana Y\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Maulana Y\AppData\Local\Programs\Python\Python311\;C:\Users\Maulana Y\AppData\Local\Microsoft\WindowsApps;C:\Users\maula\AppData\Roaming\npm;C:\Users\Maulana Y\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Maulana Y\go\bin;C:\Program Files\PostgreSQL\15\bin;C:\Users\Maulana Y\AppData\Roaming\npm;C:\Program Files\OpenSSL-Win64\bin;C:\Program Files (x86)\Java\jre-1.8\bin;;C:\Program Files\Azure Data Studio\bin;C:\Users\Maulana Y\.katalon\packages\Katalon_Studio_Windows_64-9.3.0\Katalon_Studio_Windows_64-9.3.0;:C:\Users\Maulana Y\.katalon\packages\Katalon_Studio_Windows_64-9.3.0\Katalon_Studio_Windows_64-9.3.0\jre\bin</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T04:19:38.107758100Z</date>
+  <millis>1707797978107</millis>
+  <nanos>758100</nanos>
+  <sequence>236</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>APPIUM_HOME: C:\Users\Maulana Y\.appium</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T04:19:38.108757200Z</date>
+  <millis>1707797978108</millis>
+  <nanos>757200</nanos>
+  <sequence>237</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>appium outlog: C:\Users\Maulana Y\git\katalon-taskmobile-Muhammad-Maulana-Yusuf\appium.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T04:19:38.108757200Z</date>
+  <millis>1707797978108</millis>
+  <nanos>757200</nanos>
+  <sequence>238</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>appium errlog: C:\Users\Maulana Y\git\katalon-taskmobile-Muhammad-Maulana-Yusuf\appium_error.log</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T04:19:39.866386600Z</date>
+  <millis>1707797979866</millis>
+  <nanos>386600</nanos>
+  <sequence>239</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>Appium server started on port 50,732</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2024-02-13T04:19:54.200424Z</date>
+  <millis>1707797994200</millis>
+  <nanos>424000</nanos>
+  <sequence>241</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>appiumVersion = 2.5.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumVersion">2.5.0</property>
+</record>
+<record>
+  <date>2024-02-13T04:19:54.201933700Z</date>
+  <millis>1707797994201</millis>
+  <nanos>933700</nanos>
+  <sequence>242</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>appiumServerStatus = {&amp;quot;value&amp;quot;:{&amp;quot;ready&amp;quot;:true,&amp;quot;message&amp;quot;:&amp;quot;The server is ready to accept new connections&amp;quot;,&amp;quot;build&amp;quot;:{&amp;quot;version&amp;quot;:&amp;quot;2.5.0&amp;quot;}}}</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="appiumServerStatus">{&quot;value&quot;:{&quot;ready&quot;:true,&quot;message&quot;:&quot;The server is ready to accept new connections&quot;,&quot;build&quot;:{&quot;version&quot;:&quot;2.5.0&quot;}}}</property>
+</record>
+<record>
+  <date>2024-02-13T04:19:54.212642500Z</date>
+  <millis>1707797994212</millis>
+  <nanos>642500</nanos>
+  <sequence>243</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>deviceId = emulator-5554</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceId">emulator-5554</property>
+</record>
+<record>
+  <date>2024-02-13T04:19:54.213651400Z</date>
+  <millis>1707797994213</millis>
+  <nanos>651400</nanos>
+  <sequence>244</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>deviceName = emulator-5554 (sdk_gphone_x86 - Android 11)</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceName">emulator-5554 (sdk_gphone_x86 - Android 11)</property>
+</record>
+<record>
+  <date>2024-02-13T04:19:54.213651400Z</date>
+  <millis>1707797994213</millis>
+  <nanos>651400</nanos>
+  <sequence>245</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>deviceModel = sdk_gphone_x86</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceModel">sdk_gphone_x86</property>
+</record>
+<record>
+  <date>2024-02-13T04:19:54.213651400Z</date>
+  <millis>1707797994213</millis>
+  <nanos>651400</nanos>
+  <sequence>246</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>deviceManufacturer = Google</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceManufacturer">Google</property>
+</record>
+<record>
+  <date>2024-02-13T04:19:54.214667200Z</date>
+  <millis>1707797994214</millis>
+  <nanos>667200</nanos>
+  <sequence>247</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>deviceOS = Android</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOS">Android</property>
+</record>
+<record>
+  <date>2024-02-13T04:19:54.214667200Z</date>
+  <millis>1707797994214</millis>
+  <nanos>667200</nanos>
+  <sequence>248</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>deviceOSVersion = 11</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="deviceOSVersion">11</property>
+</record>
+<record>
+  <date>2024-02-13T04:20:04.321822100Z</date>
+  <millis>1707798004321</millis>
+  <nanos>822100</nanos>
+  <sequence>249</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>276</thread>
+  <message>Failed to get OS statusbar&amp;apos;s information using getSystemBar.</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+</log>

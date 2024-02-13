@@ -1,0 +1,42 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite Explore-Add Prod,,,,13-02-2024 08:57:19,13-02-2024 08:58:51,1m - 32.287s,PASSED
+,,,,,,,
+Test Cases/Explore Categoryy,,,,13-02-2024 08:57:19,13-02-2024 08:58:03,43.725s,PASSED
+"startApplication(""C:\Users\Maulana Y\Downloads\Android-Solodroid_E-CommerceApp Demo_3.2.0.apk\Solodroid_E-CommerceApp Demo_3.2.0.apk"", true)",,,,13-02-2024 08:57:19,13-02-2024 08:57:42,22.724s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/TextView - Category""), 0)",,,,13-02-2024 08:57:42,13-02-2024 08:57:45,2.774s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/android.widget.TextView - Electronics  Gadgets""), 0)",,,,13-02-2024 08:57:45,13-02-2024 08:57:48,3.426s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Mobile App/android.widget.TextView - Electronics  Gadgets (1)""), ""Electronics & Gadgets"")",,,,13-02-2024 08:57:48,13-02-2024 08:57:49,0.150s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/android.widget.ImageButton-Back""), 0)",,,,13-02-2024 08:57:49,13-02-2024 08:57:49,0.156s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/android.widget.TextView - Fashions""), 0)",,,,13-02-2024 08:57:49,13-02-2024 08:57:51,2.647s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/android.widget.ImageButton-Back""), 0)",,,,13-02-2024 08:57:51,13-02-2024 08:57:52,0.153s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/android.widget.TextView - Baby Gear""), 0)",,,,13-02-2024 08:57:52,13-02-2024 08:57:54,2.546s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/android.widget.ImageButton-Back""), 0)",,,,13-02-2024 08:57:54,13-02-2024 08:57:54,0.150s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/android.widget.TextView - Home  Furniture""), 0)",,,,13-02-2024 08:57:54,13-02-2024 08:57:57,2.625s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/android.widget.ImageButton-Back""), 0)",,,,13-02-2024 08:57:57,13-02-2024 08:57:57,0.148s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/android.widget.TextView - Health  Sports""), 0)",,,,13-02-2024 08:57:57,13-02-2024 08:57:59,2.524s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/android.widget.ImageButton-Back""), 0)",,,,13-02-2024 08:57:59,13-02-2024 08:58:00,0.139s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/android.widget.TextView - Office  Industry""), 0)",,,,13-02-2024 08:58:00,13-02-2024 08:58:02,2.581s,PASSED
+"tap(findTestObject(""Object Repository/Mobile App/android.widget.ImageButton-Back""), 0)",,,,13-02-2024 08:58:02,13-02-2024 08:58:03,0.734s,PASSED
+,,,,,,,
+Test Cases/Add Prods to Cart,,,,13-02-2024 08:58:03,13-02-2024 08:58:51,48.408s,PASSED
+"startApplication(""C:\Users\Maulana Y\Downloads\Android-Solodroid_E-CommerceApp Demo_3.2.0.apk\Solodroid_E-CommerceApp Demo_3.2.0.apk"", true)",,,,13-02-2024 08:58:03,13-02-2024 08:58:10,7.009s,PASSED
+"tap(findTestObject(""Object Repository/Samsung Galaxy S10 - Black""), 0)",,,,13-02-2024 08:58:10,13-02-2024 08:58:17,6.911s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - ADD TO CART""), 0)",,,,13-02-2024 08:58:17,13-02-2024 08:58:18,0.656s,PASSED
+"setText(findTestObject(""Object Repository/EditText-Product qty""), ""1"", 0)",,,,13-02-2024 08:58:18,13-02-2024 08:58:20,2.434s,PASSED
+"tap(findTestObject(""Object Repository/Button - ADD""), 0)",,,,13-02-2024 08:58:20,13-02-2024 08:58:21,0.741s,PASSED
+"tap(findTestObject(""Object Repository/Button Cart-Kanan Atas""), 0)",,,,13-02-2024 08:58:21,13-02-2024 08:58:22,0.765s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/android.widget.TextView - Samsung Galaxy S10 - Black""), 0)",,,,13-02-2024 08:58:22,13-02-2024 08:58:22,0.856s,PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - CHECKOUT""), 0)",,,,13-02-2024 08:58:22,13-02-2024 08:58:23,0.119s,PASSED
+"setText(findTestObject(""Object Repository/EditText - Your Name""), ""Nama"", 0)",,,,13-02-2024 08:58:23,13-02-2024 08:58:26,3.535s,PASSED
+"setText(findTestObject(""Object Repository/EditText - Email""), ""nama@gmail.com"", 0)",,,,13-02-2024 08:58:26,13-02-2024 08:58:29,2.754s,PASSED
+"setText(findTestObject(""Object Repository/EditText - Phone Number""), ""0811222333"", 0)",,,,13-02-2024 08:58:29,13-02-2024 08:58:31,2.513s,PASSED
+"setText(findTestObject(""Object Repository/EditText - Your Address""), ""Jalan kemang raya"", 0)",,,,13-02-2024 08:58:31,13-02-2024 08:58:34,2.536s,PASSED
+"tap(findTestObject(""Object Repository/Shipping""), 0)",,,,13-02-2024 08:58:34,13-02-2024 08:58:36,2.276s,PASSED
+"tap(findTestObject(""Object Repository/CheckedTextView - FedEx""), 0)",,,,13-02-2024 08:58:36,13-02-2024 08:58:37,0.735s,PASSED
+hideKeyboard(),,,,13-02-2024 08:58:37,13-02-2024 08:58:38,1.325s,PASSED
+"setText(findTestObject(""Object Repository/EditText - Comment""), ""Oke"", 0)",,,,13-02-2024 08:58:38,13-02-2024 08:58:40,2.141s,PASSED
+hideKeyboard(),,,,13-02-2024 08:58:40,13-02-2024 08:58:41,1.111s,PASSED
+"tap(findTestObject(""Object Repository/ProcessCheckout-Button""), 0)",,,,13-02-2024 08:58:41,13-02-2024 08:58:42,0.273s,PASSED
+"tap(findTestObject(""android.widget.Button - YES""), 0)",,,,13-02-2024 08:58:42,13-02-2024 08:58:43,1.071s,PASSED
+"verifyElementVisible(findTestObject(""android.widget.TextView - Thank you for ordering, your order will be review soon, invoice detail will be sent to your email when the order is ready""), 0)",,,,13-02-2024 08:58:43,13-02-2024 08:58:51,8.450s,PASSED
+"tap(findTestObject(""android.widget.Button - OK""), 0)",,,,13-02-2024 08:58:51,13-02-2024 08:58:51,0.127s,PASSED
